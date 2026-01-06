@@ -77,11 +77,11 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=RonitkumarSoni&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonitkumarSoni&show_icons=true&theme=dark)
 
-![](https://streak-stats.demolab.com/?user=RonitkumarSoni&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=RonitkumarSoni&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RonitkumarSoni&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RonitkumarSoni&layout=compact&theme=dark)
 
 
 ## 🏆 GitHub Trophies
