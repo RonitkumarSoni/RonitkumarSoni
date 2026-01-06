@@ -75,13 +75,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronitsoni)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ronitkumarsoni.cg@gmail.com)
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonitkumarSoni&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=RonitkumarSoni&show_icons=true&theme=dark" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RonitkumarSoni&theme=dark)
+<img src="https://streak-stats.demolab.com?user=RonitkumarSoni&theme=dark" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RonitkumarSoni&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonitkumarSoni&layout=compact&theme=dark" />
+
 
 
 ## 🏆 GitHub Trophies
