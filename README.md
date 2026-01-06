@@ -77,11 +77,11 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ronitkumars​oni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api?username=RonitkumarSoni&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=ronitkumars​oni&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=RonitkumarSoni&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronitkumars​oni&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RonitkumarSoni&theme=dark&hide_border=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
