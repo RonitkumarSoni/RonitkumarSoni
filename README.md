@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="#" target="_blank" style="margin: 0 20px;">
+  <a href="https://www.figma.com/design/BlSG4LDfvv0btvnumC8Ulk/Untitled?node-id=34-4&t=xM0gZ7mDEjgUjjAp-1" target="_blank" style="margin: 0 20px;">
     <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ronit-soni-63bb3a37a/" target="_blank" style="margin: 0 20px;">
@@ -22,9 +22,12 @@
 
 ### 🧠 About Me
 
-- 🧱 I love building full-stack apps with **React**, **Node.js**, and **MongoDB**  
-- 🎯 I focus on creating **clean UIs**, smooth UX, and robust backend logic  
-- 🌱 Constantly learning — currently diving into **Android Development** and **Three.js**
+- 💻 Frontend developer with strong foundations in **HTML**, **CSS**, and **JavaScript**
+- 🚀 Currently learning backend development with **Node.js** and **MongoDB**
+- 🔐 Exploring **Cyber Security** through self-learning and hands-on practice
+- 🎯 Interested in building clean UI, smooth user experiences, and secure applications
+- 🌱 I believe in learning by building real-world projects and improving every day
+
 
 ---
 
@@ -35,16 +38,8 @@
       <sub>React</sub>
     </td>
     <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=redux" width="40" alt="Redux" /><br />
-      <sub>Redux</sub>
-    </td>
-    <td align="center" width="70">
       <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" /><br />
       <sub>JavaScript</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" /><br />
-      <sub>TypeScript</sub>
     </td>
     <td align="center" width="70">
       <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" /><br />
@@ -61,10 +56,6 @@
     <td align="center" width="70">
       <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" /><br />
       <sub>Node.js</sub>
-    </td>
-    <td align="center" width="70">
-      <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express" /><br />
-      <sub>Express</sub>
     </td>
     <td align="center" width="70">
       <img src="https://skillicons.dev/icons?i=mongodb" width="40" alt="MongoDB" /><br />
@@ -109,8 +100,7 @@
 
 ### ✨ GitHub Achievements
 
-<table align="center"> <tr> <td align="center" width="120"> <a href="#"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark" /><br /> <sub>🧠 Pull Shark</sub> </a> </td> <td align="center" width="120"> <a href="#"> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw" /><br /> <sub>⚡ Quickdraw</sub> </a> </td> <td align="center" width="120"> <a href="#"> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO" /><br /> <sub>🎯 YOLO</sub> </a> </td> </tr> </table>
-
+<table align="center"> <tr> <td align="center" width="120"> <a href="#"> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark" /><br /> <sub>🧠 Pull Shark</sub> </a> </td> <td align="center" width="120"> <a href="#"> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw" /><br /> </td> </tr> </table>
 ---
 
 ### 📈 GitHub Activity Graph
@@ -122,9 +112,9 @@
 ### 🎯 Currently Exploring
 
 <div align="start">
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge" style="margin: 10px;" />
-  <img src="https://img.shields.io/badge/-CI%2FCD%20%26%20Testing-4CAF50?logo=githubactions&logoColor=white&style=for-the-badge" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/-Cyber%20Security-0A0A0A?logo=hackthebox&logoColor=green&style=for-the-badge" style="margin: 10px;" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" style="margin: 10px;" />
 </div>
 
 ---
