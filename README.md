@@ -70,27 +70,21 @@
 
 ---
 
- 📊 GitHub Stats
-
-<p align="center">
-  <img src="#" alt="Awesome GitHub Stats" />
-  <br />
-  <img src="#&layout=compact&theme=tokyonight&hide_border=true&refresh=1" />
-  <br />
-  <img src="#&theme=tokyonight&hide_border=true&refresh=1" />
-  <br />
-</p>
-
----
+ ## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ronitsoni596)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronitsoni)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ronitkumarsoni.cg@gmail.com)
 
 
-### 📈 Contribution Overview
-<p align="center">
-  <img src="#&theme=tokyonight&hide_border=true" alt="Contribution Overview" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RonitkumarSoni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RonitkumarSoni&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=RonitkumarSoni&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🏆 GitHub Trophies
 
