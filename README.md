@@ -171,16 +171,16 @@ Features:
 </td>
 <td width="50%" valign="top">
 
-### 💡 Stock_Master
-**OdooXSpit** | *Nov , 2025*
+### 💡 Splice
+<!-- **OdooXSpit** | *Nov , 2025* -->
 
 ```yaml
-Tech: Next.js • Supabase • Node.js 
-Features: Realtime Updates, Secure Access, Auth
+<!-- Tech: Next.js • Supabase • Node.js 
+Features: Realtime Updates, Secure Access, Auth -->
 ```
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)]()
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
+[![GitHub]()]()
+[![Live]()]()
 
 </td>
 </tr>
@@ -188,21 +188,21 @@ Features: Realtime Updates, Secure Access, Auth
 <tr>
 <td width="50%" valign="top">
 
-### 🌱 EcoFinds
-**Odoo x NMIT Hackathon** | *Sept 2025*
+### canva
+<!-- **Odoo x NMIT Hackathon** | *Sept 2025* -->
 
 ```yaml
-Tech: React • Vite • Tailwind • MongoDB • Express
-Features: E-commerce, Shopping Cart, JWT Auth, Product CRUD
+<!-- Tech: React • Vite • Tailwind • MongoDB • Express
+Features: E-commerce, Shopping Cart, JWT Auth, Product CRUD -->
 ```
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)]()
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)]()
+[![GitHub]()]()
+[![Live]()]()
 
 </td>
 <td width="50%" valign="top">
 
-### 💰 Expenseura
+### Utility Hub
 **Utility Hub** | *Nov 2025*
 
 ```yaml
