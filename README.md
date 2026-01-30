@@ -98,7 +98,7 @@ const currentlyWorking = {
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/ronit-soni-63bb3a37a/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/ronitsoni596/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://www.instagram.com/ronitsoni596/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/RonitXSoni)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:ronitkumarsoni.cg@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/RonitkumarSoni)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116)](https://leetcode.com/u/ronitkumarsoni/)
@@ -157,12 +157,12 @@ const currentlyWorking = {
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 FarmTrust
-**OdooXGujaratVidhayapith** | *March , 2025*
+### 🚀 SpaceX
+**SpaceX clone** | *Dec , 2025*
 
 ```yaml
-Tech: React • Node.js • MongoDB • Express
-Features: Real-time updates, JWT Auth, Chatbot , i18n , socket.io
+Tech: HTML • CSS • Javascript
+Features: 
 ```
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)]()
@@ -203,15 +203,15 @@ Features: E-commerce, Shopping Cart, JWT Auth, Product CRUD
 <td width="50%" valign="top">
 
 ### 💰 Expenseura
-**Odoo X Ameltha Hackathon** | *Oct 2025*
+**Utility Hub** | *Nov 2025*
 
 ```yaml
-Tech: React • Vite • Supabase • PostgreSQL • Tailwind
-Features: OCR Receipt, Multi-Currency, Role-Based Access, Approvals
+Tech: HTML • CSS • Javascript
+<!-- Features: OCR Receipt, Multi-Currency, Role-Based Access, Approvals -->
 ```
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)]()
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)]()
+[![GitHub]()]()
+[![Live]()]()
 
 </td>
 </tr>
@@ -233,10 +233,10 @@ Features: OCR Receipt, Multi-Currency, Role-Based Access, Approvals
 <tr>
 <td width="50%" valign="top">
 
-### 🎉 Eventura
-**Jan - March 2025**
+### 🎉 Splice
+**Dec 2025**
 
-> Full-stack event management platform with booking system, live chat, and admin panel
+> 
 
 **Tech Stack:**
 ```javascript
@@ -249,16 +249,16 @@ const stack = {
 };
 ```
 
-[![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)]()
-[![Live](https://img.shields.io/badge/Live_Site-00C7B7?style=for-the-badge&logo=netlify)]()
+[![Code]()]()
+[![Live]()]()
 
 </td>
 <td width="50%" valign="top">
 
-### ✈️ TravelSync
-**Jul - Aug 2025**
+### DorjeTeas Clone
+**Dec 2025**
 
-> Full-stack travel planning platform with hotel booking and payment integration
+> Shark tank
 
 **Tech Stack:**
 ```javascript
@@ -270,8 +270,8 @@ const stack = {
 };
 ```
 
-[![Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)]()
-[![Live](https://img.shields.io/badge/Live_Site-00C7B7?style=for-the-badge&logo=netlify)]()
+[![Code]()]()
+[![Live]()]()
 
 </td>
 </tr>
@@ -291,14 +291,6 @@ const stack = {
 
 | 🎓 **Certification** | 🏢 **Platform** | 📅 **Issued** | 🔗 **Verify** |
 |:---------------------|:----------------|:--------------|:--------------|
-| **Hackathon 2025** | Odoo X Gujarat Vidhyapith | April 2025 | [![View](https://img.shields.io/badge/Certificate-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/Ronitvv23_hackathonjourney-innovation-sustainablefarming-activity-7311297836082438145-4Ws0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFbQIEBNyvXKq2e2we3ieNXl2L1zznWXvo) |
-| **Tech Expo 2025** | Rai University | February 2025 | [![View](https://img.shields.io/badge/Certificate-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/Ronitvv23_techexpo-cse-eventura-activity-7302664635332050944-pF9H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFbQIEBNyvXKq2e2we3ieNXl2L1zznWXvo) |
-| **React (Basic)** | HackerRank | May 2025 | [![View](https://img.shields.io/badge/Certificate-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/29f04f97089f) |
-| **JavaScript (Basic)** | HackerRank | May 2025 | [![View](https://img.shields.io/badge/Certificate-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/a3b280e1ad5b) |
-| **Node.js (Basic)** | HackerRank | May 2025 | [![View](https://img.shields.io/badge/Certificate-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/edf3c23f04f1) |
-| **Frontend Development (Basic)** | HackerRank | May 2025 | [![View](https://img.shields.io/badge/Certificate-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/6f6e8a824ad7) |
-| **GitHub Copilot Fundamentals** | Simplilearn | May 2025 | [![View](https://img.shields.io/badge/Certificate-FF6B35?style=flat-square&logo=github&logoColor=white)](https://simpli-web.app.link/e/b81icFwByTb) |
-
 </div>
 
 
