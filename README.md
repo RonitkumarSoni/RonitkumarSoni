@@ -157,12 +157,12 @@ const currentlyWorking = {
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Project 1
-**Project Name** | *Date*
+### 🚀 SpaceX Clone
+**SpaceX Website Clone** | *Dec, 2025*
 
 ```yaml
-Tech: Technology Stack
-Features: Features Description
+Tech: HTML • CSS • JavaScript
+Features: Responsive layout, Mobile menu toggle, Time-based UI elements, Clean UI sections
 ```
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)]()
@@ -171,12 +171,12 @@ Features: Features Description
 </td>
 <td width="50%" valign="top">
 
-### 💡 Project 2
-**Project Name** | *Date*
+### 💡 Slice Clone
+**Slice (Indian Digital Banking) Clone** | *Nov, 2025*
 
 ```yaml
-Tech: Technology Stack
-Features: Features Description
+Tech: HTML • CSS • JavaScript
+Features: Landing pages, Card sections, Interactive buttons (onclick JS), Responsive UI, Modern fintech design
 ```
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)]()
@@ -184,16 +184,15 @@ Features: Features Description
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🌱 Project 3
-**Project Name** | *Date*
+### 🍃 Dorje Teas Clone
+**Dorje Teas Website Clone** | *Sept, 2025*
 
 ```yaml
-Tech: Technology Stack
-Features: Features Description
+Tech: HTML • CSS • JavaScript
+Features: Product sections, Mobile menu toggle, Smooth navigation, Clean brand-style UI
 ```
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)]()
@@ -202,12 +201,12 @@ Features: Features Description
 </td>
 <td width="50%" valign="top">
 
-### 💰 Project 4
-**Project Name** | *Date*
+### 🧩 Proxgy Clone
+**Proxgy Website Clone** | *Nov, 2025*
 
 ```yaml
-Tech: Technology Stack
-Features: Features Description
+Tech: HTML • CSS
+Features: Static responsive layout, Clean UI sections, Modern landing page design
 ```
 
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)]()
@@ -233,15 +232,18 @@ Features: Features Description
 <tr>
 <td width="50%" valign="top">
 
-### 🎉 Project 1
-**Project Timeline**
+### 📰 News App
+**Dec 2025**
 
-> Project Description
+> A modern news website that fetches and displays the latest news using a public API.
 
 **Tech Stack:**
 ```javascript
 const stack = {
-  technology: "Details"
+  frontend: "HTML + CSS",
+  logic: "JavaScript",
+  api: "News API (Fetch)",
+  features: "Dynamic news loading, Category-wise news, Responsive UI"
 };
 ```
 
@@ -251,15 +253,18 @@ const stack = {
 </td>
 <td width="50%" valign="top">
 
-### ✈️ Project 2
-**Project Timeline**
+### 🛍️ Myntra Clone
+**Dec 2025**
 
-> Project Description
+> A React-based Myntra clone project focused on building a full e-commerce UI experience.
 
 **Tech Stack:**
 ```javascript
 const stack = {
-  technology: "Details"
+  frontend: "React.js + Tailwind CSS",
+  state: "React Hooks",
+  routing: "React Router",
+  features: "Product listing, UI clone, Responsive design"
 };
 ```
 
@@ -286,8 +291,6 @@ const stack = {
 |:---------------------|:----------------|:--------------|:--------------|
 
 </div>
-
-
 
 <!-- Rainbow Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
