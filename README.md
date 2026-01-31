@@ -96,18 +96,18 @@ const currentlyWorking = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/ronit-soni-63bb3a37a/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/ronitsoni596/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/RonitXSoni)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:ronitkumarsoni.cg@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/RonitkumarSoni)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116)](https://leetcode.com/u/ronitkumarsoni/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)]()
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)]()
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)]()
+[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)]()
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116)]()
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)]()
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ronit2311-dot&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ronit-soni&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <!-- Fire Divider -->
@@ -146,76 +146,14 @@ const currentlyWorking = {
 <!-- Solar Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
 
-<!-- Enhanced Hackathon Section -->
+<!-- Enhanced Projects Section -->
 <h2 align="center">
-  🏆 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=FFD93DF0&center=true&vCenter=true&width=500&lines=Hackathon+Projects" alt="Hackathon" />
+  🏆 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=FFD93DF0&center=true&vCenter=true&width=300&lines=Projects" alt="Projects" />
 </h2>
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 SpaceX
-**SpaceX clone** | *Dec , 2025*
-
-```yaml
-Tech: HTML • CSS • Javascript
-Features: 
-```
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)]()
-[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)]()
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 Splice
-<!-- **OdooXSpit** | *Nov , 2025* -->
-
-```yaml
-<!-- Tech: Next.js • Supabase • Node.js 
-Features: Realtime Updates, Secure Access, Auth -->
-```
-
-[![GitHub]()]()
-[![Live]()]()
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### canva
-<!-- **Odoo x NMIT Hackathon** | *Sept 2025* -->
-
-```yaml
-<!-- Tech: React • Vite • Tailwind • MongoDB • Express
-Features: E-commerce, Shopping Cart, JWT Auth, Product CRUD -->
-```
-
-[![GitHub]()]()
-[![Live]()]()
-
-</td>
-<td width="50%" valign="top">
-
-### Utility Hub
-**Utility Hub** | *Nov 2025*
-
-```yaml
-Tech: HTML • CSS • Javascript
-<!-- Features: OCR Receipt, Multi-Currency, Role-Based Access, Approvals -->
-```
-
-[![GitHub]()]()
-[![Live]()]()
-
-</td>
-</tr>
-</table>
+<!-- Add your projects here -->
 
 </div>
 
@@ -229,53 +167,7 @@ Tech: HTML • CSS • Javascript
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎉 Splice
-**Dec 2025**
-
-> 
-
-**Tech Stack:**
-```javascript
-const stack = {
-  frontend: "React.js + Tailwind CSS",
-  backend: "Node.js + Express",
-  database: "MongoDB",
-  auth: "Auth0",
-  realtime: "Socket.io"
-};
-```
-
-[![Code]()]()
-[![Live]()]()
-
-</td>
-<td width="50%" valign="top">
-
-### DorjeTeas Clone
-**Dec 2025**
-
-> Shark tank
-
-**Tech Stack:**
-```javascript
-const stack = {
-  frontend: "React + Tailwind CSS",
-  backend: "Node.js + Express",
-  database: "MongoDB + Mongoose",
-  auth: "JWT + Firebase"
-};
-```
-
-[![Code]()]()
-[![Live]()]()
-
-</td>
-</tr>
-</table>
+<!-- Add your featured MERN projects here -->
 
 </div>
 
@@ -289,8 +181,8 @@ const stack = {
 
 <div align="center">
 
-| 🎓 **Certification** | 🏢 **Platform** | 📅 **Issued** | 🔗 **Verify** |
-|:---------------------|:----------------|:--------------|:--------------|
+<!-- Add your certifications here -->
+
 </div>
 
 
@@ -304,9 +196,9 @@ const stack = {
 </h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronit2311-dot/Ronit2311-dot/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ronit2311-dot/Ronit2311-dot/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ronit2311-dot/Ronit2311-dot/output/pacman-contribution-graph.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhruv2311-dot/dhruv2311-dot/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhruv2311-dot/dhruv2311-dot/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dhruv2311-dot/dhruv2311-dot/output/pacman-contribution-graph.svg" width="100%" />
 </picture>
 
 <!-- Fire Divider -->
