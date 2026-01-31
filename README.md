@@ -148,7 +148,7 @@ const currentlyWorking = {
 
 <!-- Enhanced Hackathon Section -->
 <h2 align="center">
-  🏆 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=FFD93DF0&center=true&vCenter=true&width=500&lines=Hackathon+Projects" alt="Hackathon" />
+  🏆 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=FFD93DF0&center=true&vCenter=true&width=500&lines=Projects" alt="Hackathon" />
 </h2>
 
 <div align="center">
