@@ -1,12 +1,11 @@
-Here is the clean, fixed Markdown code ready to copy and paste.
-
-```markdown
+<!-- Banner -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" alt="Banner" />
 </div>
 
 <br/>
 
+<!-- Unique Cyberpunk HUD Header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Zen+Dots&weight=900&size=85&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=1200&height=180&lines=RONIT+SONI" alt="Cyberpunk Name" />
   
@@ -16,19 +15,23 @@ Here is the clean, fixed Markdown code ready to copy and paste.
   
   <br/>
 
+  <!-- Glitch Line Divider -->
   <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&weight=400&size=20&pause=1000&color=FF0055&center=true&vCenter=true&width=1200&lines=__________________________________________________________________________________________" alt="Glitch Divider" />
 </div>
 
 <br/>
 
+<!-- Holographic Status Board -->
 <div align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-39FF14?style=for-the-badge&labelColor=000000&logo=probot" />
   <img src="https://img.shields.io/badge/LOCATION-INDIA_IN-00F5FF?style=for-the-badge&labelColor=000000&logo=googlemaps" />
   <img src="https://img.shields.io/badge/MISSION-AVAILABLE-FF0055?style=for-the-badge&labelColor=000000&logo=target" />
 </div>
 
+<!-- Neon Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+<!-- Enhanced About Section with Unique GIF -->
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="45" />
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=667EEAF0&center=true&vCenter=true&width=300&lines=About+Me" alt="About Me" />
@@ -54,15 +57,15 @@ const currentlyWorking = {
   exploring: ["TypeScript", "Next.js", "Cloud Technologies"],
   learning: "System Design & Architecture patterns"
 };
-
 ```
 
-💭 **My Development Philosophy:** ```diff
+<br>
 
-* "Clean code is not written by following a set of rules.
-* You know you have written clean code when each function does exactly one thing."
+💭 **My Development Philosophy:**  
+```diff
++ "Clean code is not written by following a set of rules.
++ You know you have written clean code when each function does exactly one thing."
 ! - Write code that humans can understand 🚀
-
 ```
 
 <br>
@@ -82,8 +85,10 @@ const currentlyWorking = {
 
 <br clear="both">
 
+<!-- Gradient Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
+<!-- Enhanced Connect Section with Gradient -->
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" />
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=F093FBF0&center=true&vCenter=true&width=400&lines=Let's+Connect!" alt="Let's Connect" />
@@ -105,8 +110,10 @@ const currentlyWorking = {
   <img src="https://komarev.com/ghpvc/?username=Ronit2311-dot&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
 </p>
 
+<!-- Fire Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 
+<!-- Enhanced Tech Stack with Categories -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" />
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=43E97BF0&center=true&vCenter=true&width=350&lines=Tech+Arsenal" alt="Tech Stack" />
@@ -136,85 +143,75 @@ const currentlyWorking = {
 
 </div>
 
+<!-- Solar Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
 
+<!-- Enhanced Projects Section -->
 <h2 align="center">
-  🏆 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=FFD93DF0&center=true&vCenter=true&width=500&lines=Hackathon+Projects" alt="Hackathon" />
+  🏆 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=FFD93DF0&center=true&vCenter=true&width=300&lines=Projects" alt="Projects" />
 </h2>
 
 <div align="center">
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 SpaceX Clone</h3>
-      <p><strong>SpaceX Website Clone</strong> | <em>Dec, 2025</em></p>
-      
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 SpaceX Clone
+**SpaceX Website Clone** | *Dec, 2025*
+
 ```yaml
 Tech: HTML • CSS • JavaScript
 Features: Responsive layout, Mobile menu toggle, Time-based UI elements, Clean UI sections
-
 ```
 
-```
 </td>
 <td width="50%" valign="top">
-  <h3>💡 Slice Clone</h3>
-  <p><strong>Slice (Indian Digital Banking) Clone</strong> | <em>Nov, 2025</em></p>
 
-```
+### 💡 Slice Clone
+**Slice (Indian Digital Banking) Clone** | *Nov, 2025*
 
 ```yaml
 Tech: HTML • CSS • JavaScript
 Features: Landing pages, Card sections, Interactive buttons (onclick JS), Responsive UI, Modern fintech design
-
 ```
 
-```
 </td>
-
-```
-
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🍃 Dorje Teas Clone</h3>
-<p><strong>Dorje Teas Website Clone</strong> | <em>Sept, 2025</em></p>
+
+### 🍃 Dorje Teas Clone
+**Dorje Teas Website Clone** | *Sept, 2025*
 
 ```yaml
 Tech: HTML • CSS • JavaScript
 Features: Product sections, Mobile menu toggle, Smooth navigation, Clean brand-style UI
-
 ```
 
-```
 </td>
 <td width="50%" valign="top">
-  <h3>🧩 Proxgy Clone</h3>
-  <p><strong>Proxgy Website Clone</strong> | <em>Nov, 2025</em></p>
 
-```
+### 🧩 Proxgy Clone
+**Proxgy Website Clone** | *Nov, 2025*
 
 ```yaml
 Tech: HTML • CSS
 Features: Static responsive layout, Clean UI sections, Modern landing page design
-
 ```
 
-```
 </td>
-
-```
-
 </tr>
 </table>
 
 </div>
 
+<!-- Dark Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
+<!-- Enhanced MERN Projects -->
 <h2 align="center">
-✨ <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=667EEAF0&center=true&vCenter=true&width=650&lines=Featured+MERN+Projects" alt="Projects" />
+  ✨ <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=667EEAF0&center=true&vCenter=true&width=650&lines=Featured+MERN+Projects" alt="Projects" />
 </h2>
 
 <div align="center">
@@ -222,11 +219,13 @@ Features: Static responsive layout, Clean UI sections, Modern landing page desig
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>📰 News App</h3>
-<p><strong>Dec 2025</strong></p>
-<blockquote>A modern news website that fetches and displays the latest news using a public API.</blockquote>
-<p><strong>Tech Stack:</strong></p>
 
+### 📰 News App
+**Dec 2025**
+
+> A modern news website that fetches and displays the latest news using a public API.
+
+**Tech Stack:**
 ```javascript
 const stack = {
   frontend: "HTML + CSS",
@@ -234,19 +233,17 @@ const stack = {
   api: "News API (Fetch)",
   features: "Dynamic news loading, Category-wise news, Responsive UI"
 };
-
 ```
 
-```
 </td>
 <td width="50%" valign="top">
-  <h3>🛍️ Myntra Clone</h3>
-  <p><strong>Dec 2025</strong></p>
-  <p>A React-based Myntra clone project focused on building a full e-commerce UI experience.</p>
-  <p><strong>Tech Stack:</strong></p>
 
-```
+### 🛍️ Myntra Clone
+**Dec 2025**
 
+> A React-based Myntra clone project focused on building a full e-commerce UI experience.
+
+**Tech Stack:**
 ```javascript
 const stack = {
   frontend: "React.js + Tailwind CSS",
@@ -254,75 +251,71 @@ const stack = {
   routing: "React Router",
   features: "Product listing, UI clone, Responsive design"
 };
-
 ```
 
-```
 </td>
-
-```
-
 </tr>
 </table>
 
 </div>
 
+<!-- Gradient Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
+<!-- Enhanced Certifications -->
 <h2 align="center">
-📜 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=F38181F0&center=true&vCenter=true&width=450&lines=Certifications" alt="Certifications" />
+  📜 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=F38181F0&center=true&vCenter=true&width=450&lines=Certifications" alt="Certifications" />
 </h2>
 
 <div align="center">
 
 | 🎓 **Certification** | 🏢 **Platform** | 📅 **Issued** | 🔗 **Verify** |
-| --- | --- | --- | --- |
-
+|:---------------------|:----------------|:--------------|:--------------|
 
 </div>
 
+<!-- Rainbow Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+<!-- Contribution Graph -->
 <h2 align="center">
-🎨 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=FF6B6BF0&center=true&vCenter=true&width=600&lines=Contribution+Graph" alt="Contribution" />
+  🎨 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=FF6B6BF0&center=true&vCenter=true&width=600&lines=Contribution+Graph" alt="Contribution" />
 </h2>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronit2311-dot/Ronit2311-dot/output/pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ronit2311-dot/Ronit2311-dot/output/pacman-contribution-graph.svg">
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ronit2311-dot/Ronit2311-dot/output/pacman-contribution-graph.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronit2311-dot/Ronit2311-dot/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ronit2311-dot/Ronit2311-dot/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ronit2311-dot/Ronit2311-dot/output/pacman-contribution-graph.svg" width="100%" />
 </picture>
 
+<!-- Fire Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 
+<!-- Enhanced Footer -->
 <div align="center">
-
+  
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=667EEAF0&center=true&vCenter=true&width=800&lines=%E2%AD%90+Thanks+for+visiting+my+profile!+%E2%AD%90;%F0%9F%92%AC+Let's+build+something+amazing+together!;%F0%9F%9A%80+Always+open+for+collaborations!;%E2%9C%A8+Happy+Coding!+%E2%9C%A8" alt="Footer Message" />
 
-
-
-
+<br/><br/>
 
 ### 💭 Random Dev Quote
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
 
 </div>
 
+<br/>
+
+<!-- Cyberpunk Footer -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Zen+Dots&weight=400&size=30&pause=1000&color=FF0055&center=true&vCenter=true&width=800&lines=TERMINATING+SESSION...;SEE+YOU+IN+THE+CLOUD" alt="Footer Message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Zen+Dots&weight=400&size=30&pause=1000&color=FF0055&center=true&vCenter=true&width=800&lines=TERMINATING+SESSION...;SEE+YOU+IN+THE+CLOUD" alt="Footer Message" />
 </div>
 
 ---
 
 <div align="center">
-
+  
 **Made with 💜 by Ronit Soni**
 
 *"Code is like humor. When you have to explain it, it's bad!"* 😄
 
 </div>
-
-```
-
-```
