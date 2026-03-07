@@ -5,9 +5,9 @@ Hello there 👋,
 
 I'm <b>Ronit Soni</b>, a Full Stack Developer from India 🇮🇳. I'm passionate about building scalable web applications using the MERN stack and love solving real-world problems through code.
 
-My YouTube channel: <a href="https://www.youtube.com/@RonitkumarSoni"> <img width=75px src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+My YouTube channel: <a href="https://www.youtube.com/@RonitkumarSoni"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <br>
-My LinkedIn: <a href="https://www.linkedin.com/in/ronit-soni-63bb3a37a/"> <img width=75px src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+My LinkedIn: <a href="https://www.linkedin.com/in/ronit-soni-63bb3a37a/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br> <br>
 <br> <br>
 
