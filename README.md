@@ -42,6 +42,22 @@ My LinkedIn: <a href="https://www.linkedin.com/in/ronit-soni-63bb3a37a/"> <img s
 </p>
 <br>
 <br>
-## Activity Overview
 
-![Activity Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RonitkumarSoni&theme=github_dark)
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RonitkumarSoni&theme=minimal&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+## 🗂️ Activity Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RonitkumarSoni&theme=transparent" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RonitkumarSoni&theme=transparent&utcOffset=5.5" alt="Productive Time"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RonitkumarSoni&theme=transparent" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RonitkumarSoni&theme=transparent" alt="Most Commit Language"/>
+</p>
