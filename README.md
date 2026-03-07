@@ -42,3 +42,6 @@ My LinkedIn: <a href="https://www.linkedin.com/in/ronit-soni-63bb3a37a/"> <img s
 </p>
 <br>
 <br>
+## Activity Overview
+
+![Activity Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RonitkumarSoni&theme=github_dark)
