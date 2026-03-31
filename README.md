@@ -1,27 +1,29 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=RONIT+SONI;Full+Stack+Developer;BE+CSE+Undergrad;Cybersecurity+%26+LLMs;NextGen+Coder" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <i>"Translating real-world designs into clean code & building scalable solutions."</i> 🚀
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00E5FF&height=250&section=header&text=Ronit%20Soni&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20%7C%20LLMs&descAlignY=60&descAlign=50" width="100%" alt="Premium Banner" />
 </p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Translating+Designs+Into+Code;Exploring+NextGen+Tech+%26+Security" alt="Typing SVG" />
+</h1>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" />
+  <i>"Writing code that bridges the gap between elegant design and robust architecture."</i> 🚀
 </div>
+
+<br>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm **Ronit Soni**, a passionate **Full Stack Developer** and a first-year **BE CSE** student at Swaminarayan University. Based in **Kalol, Gujarat**, I specialize in the **MERN Stack**, **UI/UX Design**, and have a keen interest in **Cybersecurity**. 
+I'm **Ronit Soni**, a passionate **Full Stack Developer** and a first-year **BE CSE** undergrad at Swaminarayan University. Based in **Kalol, Gujarat**, I thrive at the intersection of logical backend systems and pixel-perfect frontend designs. 
 
-I love crafting pixel-perfect frontend interfaces (like my SpaceX & Slice clones) and architecting robust backend systems. I am constantly exploring new technologies, from advanced LLMs to 3D web development.
+Whether it's architecting a complex banking system clone or exploring the depths of Cybersecurity and Large Language Models, I am driven by a constant desire to build and innovate. 
 
-- 💻 **Tech Stack:** React, Node.js, Express, MongoDB | Next.js
-- 🎨 **Design & Logic:** Figma, UI/UX, C/C++
-- 🔐 **Exploring:** Ethical Hacking & Cybersecurity
-- 🎥 **Creator:** Running the tech channel **NextGenCoder**
+- 💻 **Core Stack:** React, Node.js, Express, MongoDB | Next.js
+- 🎨 **Design & Systems:** Figma, C/C++, UI/UX Architecture
+- 🔐 **Exploring:** Ethical Hacking & Secure Web Development
+- 🎥 **Creator:** Tech content creator at **NextGenCoder**
 - 📫 **Reach me at:** [ronitkumarsoni.cg@gmail.com](mailto:ronitkumarsoni.cg@gmail.com)
 
 ### 🌐 Connect With Me
@@ -31,43 +33,51 @@ I love crafting pixel-perfect frontend interfaces (like my SpaceX & Slice clones
   <a href="https://www.youtube.com/@NextGenCoderOfficial"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://x.com/RonitXSoni"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://leetcode.com/u/ronitkumarsoni/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://instagram.com/ronitsoni596"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
 
-<h2 align="center">🔥 Featured Projects</h2>
+<h2 align="center">🔥 High-Value & Pinned Projects</h2>
+<p align="center"><i>Live stats directly from my GitHub repositories.</i></p>
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%">
-      <h3>🚀 SpaceX Clone</h3>
-      <p>Demonstrates my ability to translate high-fidelity real-world designs into clean, structured, and fully responsive frontend code. Perfect attention to detail.</p>
-      <a href="https://github.com/RonitkumarSoni/SpaceX-Clone"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <td align="center" width="50%">
+      <b>💳 Slice Banking System Clone</b><br/>
+      <p align="left"><i>A comprehensive web clone of the Slice banking platform, focusing on secure UI/UX mechanics, transaction flows, and modern financial web design principles.</i></p>
+      <a href="https://github.com/RonitkumarSoni/Slice-Clone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonitkumarSoni&repo=Slice-Clone&theme=tokyonight&show_icons=true&border_color=00E5FF&bg_color=0D1117&title_color=00E5FF" alt="Slice Banking System" width="100%"/>
+      </a>
     </td>
-    <td width="50%">
-      <h3>🍕 Slice Website Clone</h3>
-      <p>A fully responsive web clone focusing on improving UI/UX mechanics and interactive web design using modern development principles.</p>
-      <a href="https://github.com/RonitkumarSoni/Slice-Clone"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <td align="center" width="50%">
+      <b>🚀 SpaceX Interface Clone</b><br/>
+      <p align="left"><i>Demonstrates high-fidelity translation of real-world designs into clean, structured, and fully responsive frontend code using modern web technologies.</i></p>
+      <a href="https://github.com/RonitkumarSoni/SpaceX-Clone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonitkumarSoni&repo=SpaceX-Clone&theme=tokyonight&show_icons=true&border_color=00E5FF&bg_color=0D1117&title_color=00E5FF" alt="SpaceX Clone" width="100%"/>
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🛡️ Disaster Survival Guide</h3>
-      <p>An informative and structured project aimed at providing real-world guidance during emergencies through clean web development.</p>
-      <a href="https://github.com/RonitkumarSoni/disaster-survival-guide-project"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <td align="center" width="50%">
+      <b>🛡️ Disaster Survival Guide</b><br/>
+      <p align="left"><i>An informative web project structuring real-world emergency guidance. Built to test accessible and fast-loading web architectures.</i></p>
+      <a href="https://github.com/RonitkumarSoni/disaster-survival-guide-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonitkumarSoni&repo=disaster-survival-guide-project&theme=tokyonight&show_icons=true&border_color=00E5FF&bg_color=0D1117&title_color=00E5FF" alt="Disaster Survival Guide" width="100%"/>
+      </a>
     </td>
-    <td width="50%">
-      <h3>🌍 Gramin-Pedia</h3>
-      <p>A rural knowledge base project structuring important local data and information using accessible web technologies.</p>
-      <a href="https://github.com/RonitkumarSoni/Gramin-Pedia"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <td align="center" width="50%">
+      <b>🌍 Gramin-Pedia</b><br/>
+      <p align="left"><i>A rural knowledge base structuring local data. Focuses on content management and creating intuitive user interfaces for diverse users.</i></p>
+      <a href="https://github.com/RonitkumarSoni/Gramin-Pedia">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonitkumarSoni&repo=Gramin-Pedia&theme=tokyonight&show_icons=true&border_color=00E5FF&bg_color=0D1117&title_color=00E5FF" alt="Gramin-Pedia" width="100%"/>
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-<h2 align="center">🛠️ Tech Arsenal</h2>
+<h2 align="center">🛠️ Technical Arsenal</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -85,7 +95,7 @@ I love crafting pixel-perfect frontend interfaces (like my SpaceX & Slice clones
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Impact & Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RonitkumarSoni&theme=tokyonight&hide_border=true&stroke=00E5FF&background=0D1117&ring=00E5FF&fire=00E5FF" alt="GitHub Streak" />
