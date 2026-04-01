@@ -36,7 +36,7 @@
                 <li>🚀 Currently building scalable apps with <b>React & Node.js</b></li>
                 <li>🌱 Exploring <b>Next.js</b> and advanced <b>Backend Architecture</b></li>
                 <li>🤝 Open to collaborating on <b>Portfolio Projects</b></li>
-                <li>📫 Reach me at: <b>ronitkumarsoni@gmail.com</b></li>
+                <li>📫 Reach me at: <b>ronitkumarsoni.cg@gmail.com</b></li>
             </ul>
         </td>
         <td width="40%" align="center">
@@ -47,10 +47,10 @@
 
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
-    <a href="mailto:ronitkumarsoni@gmail.com">
+    <a href="mailto:ronitkumarsoni.cg@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://linkedin.com/in/ronitkumarsoni">
+    <a href="https://www.linkedin.com/in/ronit-soni-63bb3a37a/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
 </p>
@@ -114,10 +114,10 @@
 <table align="center" width="100%">
     <tr>
         <td align="center" width="50%">
-            <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=RonitkumarSoni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00E5FF&icon_color=00E5FF" alt="GitHub Stats" />
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RonitkumarSoni&theme=tokyonight" alt="GitHub Stats" />
         </td>
         <td align="center" width="50%">
-            <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=RonitkumarSoni&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF" alt="Top Languages" />
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=RonitkumarSoni&theme=tokyonight" alt="Top Languages" />
         </td>
     </tr>
     <tr>
@@ -127,12 +127,3 @@
         </td>
     </tr>
 </table>
-
-<hr>
-
-<h3 align="center">💻 Workspace Aesthetic</h3>
-<p align="center">
-    <img src="https://i.pinimg.com/1200x/29/dd/db/29dddbb74db0c68adc5358271281e03a.jpg" width="60%" alt="Workspace Aesthetic" />
-</p>
-
-<hr>
