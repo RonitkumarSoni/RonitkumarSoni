@@ -61,6 +61,19 @@
     <img src="https://komarev.com/ghpvc/?username=RonitkumarSoni&label=Profile%20Views&color=00e5ff&style=flat-square" alt="Profile Views" />
 </div>
 
+<h2 align="center">💎 Top Skills</h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/Full--Stack_Development-00E5FF?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack Development" />
+    <img src="https://img.shields.io/badge/MERN_Stack-20232A?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack" />
+    <img src="https://img.shields.io/badge/Content_Development-FF6F61?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Content Development" />
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/LLM-FF00E5?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
+    <img src="https://img.shields.io/badge/Cybersecurity-FF3D00?style=for-the-badge&logo=looker&logoColor=white" alt="Cybersecurity" />
+</p>
+
+<hr>
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h3 align="center">Frontend</h3>
@@ -117,7 +130,7 @@
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RonitkumarSoni&theme=tokyonight" alt="GitHub Stats" />
         </td>
         <td align="center" width="50%">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=RonitkumarSoni&theme=tokyonight" alt="Top Languages" />
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RonitkumarSoni&theme=tokyonight" alt="Top Languages" />
         </td>
     </tr>
     <tr>
