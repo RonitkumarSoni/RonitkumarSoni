@@ -114,10 +114,10 @@
 <table align="center" width="100%">
     <tr>
         <td align="center" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=RonitkumarSoni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00E5FF&icon_color=00E5FF" alt="GitHub Stats" />
+            <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=RonitkumarSoni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00E5FF&icon_color=00E5FF" alt="GitHub Stats" />
         </td>
         <td align="center" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RonitkumarSoni&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF" alt="Top Languages" />
+            <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=RonitkumarSoni&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF" alt="Top Languages" />
         </td>
     </tr>
     <tr>
