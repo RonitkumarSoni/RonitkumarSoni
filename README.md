@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=wave&color=00e5ff&height=200&section=header&text=RONIT%20SONI&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20Expert&descSize=20&descAlignY=60" alt="Animated Banner" />
+</p>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=RONIT+SONI;Full+Stack+Developer;MERN+Stack+Expert;Creative+Problem+Solver" alt="Typing SVG" />
+</h1>
+
 <table align="center">
     <tr>
         <td width="50%">
@@ -25,7 +33,7 @@
         <td width="60%">
             <h2>🚀 About Me</h2>
             <p>
-                I'm an enthusiast and highly motivated <b>Software Professional</b>.
+                I'm an enthusiast and highly motivated <b>Software Professional</b>. 
                 I specialize in the <b>MERN Stack</b> and love turning complex problems into elegant, user-friendly solutions.
             </p>
             <ul>
@@ -79,40 +87,27 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 </p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" />
-    <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
+    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
 </p>
 
 <hr>
 
-<h3 align="center">Backend</h3>
+<h3 align="center">Backend & Tools</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
-    <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
-</p>
-
-<hr>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 <h3 align="center">📊 GitHub Analytics</h3>
