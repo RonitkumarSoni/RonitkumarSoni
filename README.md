@@ -1,4 +1,5 @@
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=Ronit+Soni;Full+Stack+Developer;MERN+Stack+Specialist;Building+Impactful+Web+Solutions" alt="Typing SVG" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=Ronit+Soni;Full+Stack+Developer;MERN+Stack+Specialist;Building+Impactful+Web+Solutions" alt="Typing SVG" />
 </h1>
 
 <table align="center">
