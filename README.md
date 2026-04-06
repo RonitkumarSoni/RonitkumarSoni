@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=00e5ff&height=200&section=header&text=RONIT%20SONI&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20Expert&descSize=20&descAlignY=60" alt="Animated Banner" />
-</p>
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=RONIT+SONI;Full+Stack+Developer;MERN+Stack+Expert;Creative+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=RONIT+SONI;FULL+STACK+DEVELOPER;MERN+STACK+EXPERT;CREATIVE+PROBLEM+SOLVER" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RonitkumarSoni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" alt="Ronit's Stats" />
+</p>
 
 <table align="center">
     <tr>
@@ -38,7 +38,7 @@
             </p>
             <ul>
                 <li>🚀 Currently building scalable apps with <b>React & Node.js</b></li>
-                <li>🌱 Exploring <b>Next.js</b> and advanced <b>Backend Architecture</b></li>
+                <li>🌱 Exploring <b>Next.js</b>, <b>Framer Motion</b>, and <b>Three.js</b></li>
                 <li>🤝 Open to collaborating on <b>Portfolio Projects</b></li>
                 <li>📫 Reach me at: <b>ronitkumarsoni.cg@gmail.com</b></li>
             </ul>
@@ -69,11 +69,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Full--Stack_Development-00E5FF?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack Development" />
     <img src="https://img.shields.io/badge/MERN_Stack-20232A?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack" />
-    <img src="https://img.shields.io/badge/Content_Development-FF6F61?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Content Development" />
-</p>
-<p align="center">
-    <img src="https://img.shields.io/badge/LLM-FF00E5?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
-    <img src="https://img.shields.io/badge/Cybersecurity-FF3D00?style=for-the-badge&logo=looker&logoColor=white" alt="Cybersecurity" />
+    <img src="https://img.shields.io/badge/Gen_AI-FF6F61?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Generative AI" />
 </p>
 
 <hr>
@@ -90,29 +86,19 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 </p>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-</p>
-
-<hr>
-
 <h3 align="center">Backend & Tools</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 <h3 align="center">📊 GitHub Analytics</h3>
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=RonitkumarSoni&theme=tokyonight&hide_border=true&stroke=00E5FF" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonitkumarSoni&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <table align="center" width="100%">
@@ -122,12 +108,6 @@
         </td>
         <td align="center" width="50%">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RonitkumarSoni&theme=tokyonight" alt="Top Languages" />
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <br>
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=RonitkumarSoni&bg_color=1a1b27&color=00e5ff&line=00e5ff&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
         </td>
     </tr>
 </table>
