@@ -1,8 +1,5 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=RONIT+SONI;Full+Stack+Developer;MERN+Stack+Expert;Creative+Problem+Solver" alt="Main Banner" />
-</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=18&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Welcome+to+my+digital+space+✨;Building+aesthetic+and+scalable+web+apps;Turning+ideas+into+reality" alt="Sub Banner" />
+  <img src="https://capsule-render.vercel.app/render?type=wave&color=gradient&customColorList=b392ac,d1b3c4,e8c2ca&height=200&section=header&text=RONIT%20SONI&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=MERN%20Stack%20Architect&descSize=20&descAlignY=60" alt="Lofi Wave Banner" />
 </p>
 
 <table align="center">
