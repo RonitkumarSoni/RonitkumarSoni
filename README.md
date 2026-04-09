@@ -25,44 +25,22 @@
 
 <table align="center">
     <tr>
-        <td width="50%">
-            <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer GIF" />
-        </td>
-        <td width="50%">
-            <h2>🚀 Full Stack Developer</h2>
-            <p>
-                I build scalable web applications using the <b>MERN stack</b>.<br><br>
-                Passionate about solving real-world problems and creating clean, high-performance UI. 
-            </p>
-            <ul>
-                <li>⚡ React & Node.js Specialist</li>
-                <li>🔥 MongoDB & Express Professional</li>
-                <li>🚀 Exploring Next.js & LLMs</li>
-            </ul>
-        </td>
-    </tr>
-</table>
-
----
-
-<table align="center">
-    <tr>
         <td width="60%">
-            <h2>✨ About Me</h2>
+            <h2>👋 About Me</h2>
             <p>
-                Hi, I'm <b>Ronit Kumar Soni</b>, an enthusiast and highly motivated Software Professional based in <b>India 🇮🇳</b>. 
-                I specialize in the MERN Stack and love turning complex problems into elegant, user-friendly solutions. 
-                Currently, I'm building scalable apps with React & Node.js while exploring advanced Backend Architecture.
+                Hi, I'm <b>Ronit Kumar Soni</b>, a <b>Software Professional</b> based in <b>India 🇮🇳</b>. 
+                I specialize in the <b>MERN Stack</b> and love turning complex problems into elegant, user-friendly solutions. 
+                With a passion for building scalable web applications, I focus on creating clean, high-performance UI and robust backend systems.
             </p>
             <ul>
                 <li>🚀 Currently building: <b>Scalable MERN Applications</b></li>
                 <li>🌱 Exploring: <b>Next.js, LLMs & Cybersecurity</b></li>
                 <li>🤝 Open to: <b>Collaborating on Portfolio Projects</b></li>
-                <li>📫 Email: <b>ronitkumarsoni.cg@gmail.com</b></li>
+                <li>📫 reach me at: <b>ronitkumarsoni.cg@gmail.com</b></li>
             </ul>
         </td>
         <td width="40%" align="center">
-            <img src="https://i.pinimg.com/1200x/d9/39/c5/d939c53e67a2a3def35d703a932672f9.jpg" width="100%" alt="About Me Image" />
+            <img src="https://i.pinimg.com/1200x/d9/39/c5/d939c53e67a2a3def35d703a932672f9.jpg" width="100%" alt="Developer Illustration" />
         </td>
     </tr>
 </table>
