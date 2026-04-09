@@ -45,6 +45,8 @@
     </tr>
 </table>
 
+---
+
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
     <a href="mailto:ronitkumarsoni.cg@gmail.com">
@@ -112,14 +114,16 @@
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RonitkumarSoni&theme=tokyonight" width="100%" />
         </td>
     </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <br>
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=RonitkumarSoni&bg_color=1a1b27&color=00e5ff&line=00e5ff&point=ffffff&hide_border=true" width="100%" />
-        </td>
-    </tr>
 </table>
 
+</div>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RonitkumarSoni&bg_color=1a1b27&color=00e5ff&line=00e5ff&point=ffffff&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -135,8 +139,6 @@
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0077b5,100:000000&height=120&section=footer&animation=fadeIn" />
 
 **⭐ Star my repos if you find them helpful! Happy Coding! 🚀**
 
